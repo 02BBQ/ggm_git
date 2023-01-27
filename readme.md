@@ -1,5 +1,6 @@
-<div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=BBQ Github&fontSize=90" />
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=BBQ_Github&fontSize=40&animation=fadeIn&fontColor=DDDDDD)
+
 <br>
 <div align=center>
 	<p>💫 Languages 💫</p>
