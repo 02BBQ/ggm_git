@@ -1,3 +1,4 @@
+<div align=center>
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=4e63d6&height=200&section=header&text=BBQ_Github&fontSize=40&animation=fadeIn&fontColor=DDDDDD)
 
@@ -30,4 +31,11 @@
     <img src="https://pbs.twimg.com/profile_images/817059869459030017/FvDS0P8j_400x400.jpg" width = 200>
     
 </div>
-ez
+<br>
+
+<p>제.소개.드립니다.저는.박영준이라고합니다.레전드잼민게임.로블록스개발에서.넘어왔습니다.</p>
+<br>
+
+저는 북방코끼리 바다표범을 좋아합니당당.
+
+</div>
