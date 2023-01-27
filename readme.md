@@ -1,7 +1,5 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=BBQ Github&fontSize=90" />
-</div>
-
 <br>
 <div align=center>
 	<p>💫 Languages 💫</p>
@@ -24,7 +22,6 @@
 <br>
 
 ![02BBQ's github stats](https://github-readme-stats.vercel.app/api?username=02BBQ&show_icons=true)
-
 
 <br>
 
